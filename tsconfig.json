@@ -1,0 +1,66 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": [
+      "ES2020",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "jsx": "react-jsx",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "*"
+      ],
+      "@components/*": [
+        "app/components/*"
+      ],
+      "@layouts/*": [
+        "app/layouts/*"
+      ],
+      "@features/*": [
+        "app/features/*"
+      ],
+      "@hooks/*": [
+        "app/hooks/*"
+      ],
+      "@utils/*": [
+        "app/utils/*"
+      ],
+      "@constants/*": [
+        "app/constants/*"
+      ],
+      "@styles/*": [
+        "app/styles/*"
+      ],
+      "@types/*": [
+        "app/types/*"
+      ],
+      "@graphql/*": [
+        "app/graphql/*"
+      ],
+      "@screens/*": [
+        "app/screens/*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "extends": "expo/tsconfig.base"
+}
